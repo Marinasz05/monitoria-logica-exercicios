@@ -7,3 +7,13 @@
 Regra para ser considerado maior de idade:
     - Ter a partir de 18 anos.
 """
+
+idade = int(input ("Qual a sua idade?"))
+if idade > 18 :
+    print('Você é maior de idade')
+else:
+    print('Você é menor de idade')
+
+
+
+
